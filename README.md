@@ -16,7 +16,7 @@ building small, complete projects from scratch.
 - JavaScript (DOM manipulation, async patterns, state management)
 - Git & GitHub workflows (branches, pull requests, issue tracking)
 - Frontend fundamentals (CSS layout, responsive design, accessibility)
-
+- Data Analytics/Engineering (SQL, Python, ETL)
 ## 📫 Find me
 
 - GitHub: [@dustineronp-dev](https://github.com/dustineronp-dev)
