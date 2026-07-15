@@ -10,6 +10,8 @@ building small, complete projects from scratch.
   a Pomodoro timer with custom work/break ratios, desktop notifications,
   session stats, and light/dark themes. Built with plain HTML/CSS/JS.
   [Try it live →](https://dustineronp-dev.github.io/Pomodoro-App-Web-only-Version-/)
+- **[Devtrack](https://github.com/dustineronp-dev/devtrack)** —
+  a realtime Job Application tracker with account creation and CRUD system
 
 ## 🌱 Currently learning
 
